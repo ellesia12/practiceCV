@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
         return `In 2015 I graduated with my high school diploma from Espirito Santo, with a GPA of 1.7. I also was my class
         president and a member of the football team.`;
       case 1:
-        return 'Apon arrival in Germany I began study to German and recieved a diploma for the level B2. My actual German language knowledge is now C1/C2.';
+        return 'Apon arrival in Germany I began to study German and recieved a diploma for the level B2. My actual German language knowledge is now C1/C2.';
       case 2:
             return 'In my most recent position I worked as a customer service contract specialist for Oticon GmbH. There I was in charge of properly writing contracts, customer support through email, chat and calls. I also was in charge of customer relationship management, and was applauded for my quick learning pace.';
       case 3:
